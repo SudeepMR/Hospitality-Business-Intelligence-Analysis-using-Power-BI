@@ -81,7 +81,7 @@ The dataset was cleaned and validated before analysis to ensure reporting consis
 
 The following data model was created to establish relationships between hospitality datasets and support KPI calculations within Power BI.
 
-![Data Model](Dashboard_Screenshots/data_model.png)
+![Data Model](https://github.com/SudeepMR/Hospitality-Business-Intelligence-Analysis-using-Power-BI/blob/27263023e1eeba18befca112c8799e26bdcab5a9/Dashboard_Screenshots/data_model.PNG)
 
 ### Data Model Includes
 - Fact bookings table
