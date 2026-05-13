@@ -21,6 +21,7 @@ The project involved:
 Below is the main Power BI dashboard developed for hospitality performance monitoring and KPI analysis.
 
 ![Hospitality Dashboard](https://github.com/SudeepMR/Hospitality-Business-Intelligence-Analysis-using-Power-BI/blob/57da2840037b2ef27f9a1c81e1c05781db35ec5d/Dashboard_Screenshots/hospitality_main_dashboard.PNG)
+![Monthly Dashboard](https://github.com/SudeepMR/Hospitality-Business-Intelligence-Analysis-using-Power-BI/blob/d9170621a28eec2879c0801f6bb9cb79c44c91f3/Dashboard_Screenshots/hospitality_monthly_dashboard.PNG)
 
 ### Dashboard Includes
 - Revenue analysis
